@@ -5,10 +5,10 @@ I'm a self-taught developer who loves building websites. I have advanced skills 
 <h2 align="center"> 💫 Techonologies </h2>
 
 <h3>💻 Frontend </h3>
-<img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,typescript" />
+<img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,typescript" height="40" />
 
 <h3>🛠️ Tools</h3>
-<img src="https://skillicons.dev/icons?i=git,vscode" />
+<img src="https://skillicons.dev/icons?i=git,vscode" height="40" />
 
 ---
 
