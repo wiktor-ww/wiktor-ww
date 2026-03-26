@@ -1,4 +1,6 @@
-<h1 align="center"> Hi 👋, I'm Wiktor! </h1>
+<div align="center">
+      <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Wiktor!" alt="Typing SVG" /></a>
+</div>
 
 I'm a self-taught developer who loves building websites. I have advanced skills in HTML, CSS, and TailwindCSS. My favorite way to work is using pure TypeScript and JavaScript to build and render entire sites.
 
@@ -18,11 +20,6 @@ I'm a self-taught developer who loves building websites. I have advanced skills 
 ## 📊 GitHub Stats:
 
 <table align="center">
-  <tr>
-    <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=wiktor-ww&theme=radical&hide_border=true" />
-    </td>
-  </tr>
   <tr>
     <td>
       <img  alt="Wiktor's github" src="https://awesome-github-stats.azurewebsites.net/user-stats/wiktor-ww?cardType=github&theme=tokyonight&preferLogin=false" />
